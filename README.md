@@ -4,13 +4,13 @@
 
 ```shell
 # Clone the repository
-npx degit sitek94/minimal-react-starter <project-name>
+npx degit sitek94/minimal-react <project-name>
 
-# Install dependencies
-pnpm install
+# Install dependencies (or npm, yarn, pnpm)
+bun install
 
 # Start development server
-pnpm dev
+bun dev
 ```
 
 ## Bootstrapped with Vite
